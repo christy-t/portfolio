@@ -54,6 +54,9 @@ h6 {
  
   width: 100%
 }
+.bold{
+  font-weight: bold;
+}
 .back-to-top i {
   font-size: 28px;
   color: #fff;
