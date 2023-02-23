@@ -72,7 +72,24 @@ h6 {
   visibility: visible;
   opacity: 1;
 }
-
+.e_d{
+  font-size: 24px;
+    background: sandybrown;
+    border-radius: 11px;
+    padding: 3px 11px;
+    margin-top: 5px;
+    display: inline-block;
+    font-weight: bold;
+}
+.c_d{
+  font-size: 24px;
+    background: sandybrown;
+    border-radius: 11px;
+    padding: 3px 11px;
+    margin-top: 5px;
+    display: inline-block;
+    font-weight: bold;
+}
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
